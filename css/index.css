@@ -1,16 +1,17 @@
 body{
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    width: 1200px;
+    
 }
 .page
 {
-    width:1200px ;
-    height: 1000px;;
+    max-width:1200px ;
+    
     
     margin-left: auto;
     margin-right: auto;
 }
+
 .login{
     float: left;
     border: 5px solid black;
@@ -63,7 +64,7 @@ body{
     width: 570px;
     height: 340px;
     margin-top: 60px;
-    margin-right:70px;
+    margin-right:40px;
     margin-left: 0px;
 }
 #picture
@@ -165,7 +166,7 @@ right:99px ;
 }
 .adpic{
     background:url('../hero.jpg');
-    width: 1150px;
+    width: 1180px;
     color: rgb(250, 236, 211);
 }
 .goldworld
@@ -198,7 +199,7 @@ right:99px ;
     height: 290px;
     padding: 0px;
     margin-top: 50px;
-    margin-left:10px;
+    margin-left:25px;
     
     display: inline-block;
     vertical-align: text-top;
