@@ -165,7 +165,7 @@ right:99px ;
     
 }
 .adpic{
-    background:url('../hero.jpg');
+    background-image:url('../hero.jpg');
     width: 1180px;
     color: rgb(250, 236, 211);
 }
