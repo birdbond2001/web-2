@@ -1,213 +1,192 @@
-body{
+body {
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
 }
-.page
-{
-    max-width:1200px ;
-    
-    
+
+.page {
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
 
-.login{
+.login {
     float: left;
     border: 5px solid black;
     width: 400px;
-    height: 300px;
+    height: 320px;
     margin-left: 70px;
-    margin-top: 80px;   
+    margin-top: 80px;
 }
-.login-title
-{
+
+.login-title {
     text-align: center;
     padding: 15px;
     background-color: rgb(81, 120, 138);
 }
-.input
-{
-  width: 370px;
-  height: 35px; 
-  border: 2px solid black;
 
-  
+.input {
+    width: 370px;
+    height: 35px;
+    border: 2px solid black;
 }
-.inputbox{
+
+.inputbox {
     padding: 10px;
     text-align: center;
     margin-top: 10px;
-    
-    
 }
-#inputbtu
-{
+
+#inputbtu {
     background-color: blue;
     width: 375px;
-    height:40px ;
+    height: 40px;
     font-size: 15px;
 }
-#forget
-{
-    text-decoration:none;
+
+#forget {
+    text-decoration: none;
     font-size: 13px;
 }
-#sing{
+
+#sing {
     font-size: 13px;
 }
-.plan
-{
+
+.plan {
     float: right;
     border: 1px solid rgb(141, 137, 137);
-    box-shadow:4px 4px 12px 4px rgba(149, 190, 245, 0.5);
+    box-shadow: 4px 4px 12px 4px rgba(149, 190, 245, 0.5);
     width: 570px;
-    height: 340px;
+    height: 420px;
     margin-top: 60px;
-    margin-right:40px;
+    margin-right: 40px;
     margin-left: 0px;
 }
-#picture
-{
+
+#plan_picture {
     width: 50px;
-    height:50px;
-   border-radius: 100px; 
+    height: 50px;
+    border-radius: 100px;
     margin-right: 10px;
     margin-top: 20px;
     margin-left: 10px;
-    vertical-align:middle;
+    vertical-align: middle;
 }
-.pic
-{
+
+.pic {
     width: 60px;
     height: 280px;
     float: left;
-    
 }
-.select
-{
-    
-    margin-right:80px;
+
+.select {
+    margin-right: 80px;
     margin-top: 10px;
     width: 400px;
     height: 250px;
-    float:right;
+    float: right;
     text-align: left;
     font-size: 16px;
 }
-#garcia{
+
+#garcia_select {
     margin-bottom: 2px;
     font-size: 18px;
     width: 429px;
-    
 }
-#recommend
-{
+
+#recommend_select {
     margin: 0px;
     color: rgb(196, 192, 192);
     font-size: 13px;
 }
-.checkmark
-{
+
+.checkmark {
     position: relative;
     top: 5px;
     width: 20px;
     height: 20px;
-    
 }
-.check
-{
-   position: relative;
-   top: 20px;
-   font-size: 15px;
+
+.check_select {
+    position: relative;
+    top: 20px;
+    font-size: 15px;
 }
-.explore{
+
+.explore_select {
     width: 388px;
     height: 60px;
-    
     margin-left: auto;
-    
-    
-   
 }
-#top-hr{
-    
-position: relative;
-right:99px ;
+
+#top_hr_select {
+    position: relative;
+    right: 99px;
 }
-#all-plane
-{
+
+#explore_wore_select {
     text-align: center;
     color: rgb(42, 63, 155);
-    margin-left:auto;
-    margin-right:auto;  
-}
-.adpig
-{
-    padding: 10px;
-    
-}
-.adpic{
-    vertical-align:sub;
-    margin-top:420px ;
-    height: 150px;
-   
-    
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#gold{
+
+
+
+#gold {
     width: 10px;
     height: 10px;
-    padding-right:3px ;
-    margin-top:20px ;
+    padding-right: 3px;
+    margin-top: 20px;
     margin-left: 30px;
+}
 
-    
+.advertising_gold_select {
+    background-color: #2fd5c7;
+    color: #ff0000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 150px;
 }
-.adpic{
-    background-image:url('../hero.jpg');
-    width: 1180px;
-    color: rgb(250, 236, 211);
-}
-.goldworld
-{
+
+.advertising_gold_select {
     font-size: 10px;
+    color: #ffffff;
 }
-#joinword
-{
+
+#advertising_join-word_select {
     text-align: center;
-    color: white;
+    color: #ffffff;
     margin-bottom: 5px;
 }
-#startword{
+
+#advertising_freeword_select {
     text-align: center;
-    color: rgb(189, 185, 185);
+    color: #ffffff;
     font-size: 10px;
-    margin-top:1px;  
+    margin-top: 1px;
 }
 
-.planbox
-{
-    width:1200px ;
-    margin-left: 30px;
-    margin-right: 0px;
+.planbox {
+    width: 1200px;
 
 }
-.plan-box
-{
+
+.plan-box {
     width: 250px;
     height: 290px;
     padding: 0px;
     margin-top: 50px;
-    margin-left:25px;
-    
+    margin-left: 25px;
     display: inline-block;
     vertical-align: text-top;
     border: 2px solid black;
-
 }
-.title-1
-{
+
+.planbox_title-1 {
     text-align: center;
     background-color: green;
     font-size: 20px;
@@ -215,35 +194,30 @@ right:99px ;
     text-align: center;
     padding: 10px;
     color: white;
-    
 }
-#hired
-{
-    font-size: 10px;
-    
-}
-.list-1
-{
-    font-size: 10px;
-    padding-left:25px ;
 
+#planbox_title-1 {
+    font-size: 10px;
 }
-.btu
-{
-    
+
+.planbox_list-1 {
+    font-size: 10px;
+    padding-left: 25px;
+}
+
+.planbox_btu{
     border-color: blue;
     width: 170px;
-    height:40px ;
+    height: 40px;
     font-size: 15px;
     background-color: white;
-    
 }
-.btu:hover{
+
+.planbox_btu:hover {
     background-color: aqua;
 }
 
-.title-2
-{
+.planbox_title-2 {
     text-align: center;
     background-color: rgb(99, 208, 241);
     font-size: 20px;
@@ -251,23 +225,18 @@ right:99px ;
     text-align: center;
     padding: 10px;
     color: white;
-    
 }
-#busin
-{
+
+#planbox_title-2 {
     font-size: 10px;
-    
 }
-.list-2
-{
+
+.planbox_list-2 {
     font-size: 10px;
-    padding-left:25px ;
-
+    padding-left: 25px;
 }
 
-
-.title-3
-{
+.planbox_title-3 {
     text-align: center;
     background-color: rgb(91, 106, 190);
     font-size: 20px;
@@ -275,23 +244,18 @@ right:99px ;
     text-align: center;
     padding: 10px;
     color: white;
-    
 }
-#sale
-{
+
+#planbox_sale {
     font-size: 10px;
-    
 }
-.list-3
-{
+
+.planbox_list-3 {
     font-size: 10px;
-    padding-left:25px ;
-
+    padding-left: 25px;
 }
 
-
-.title-4
-{
+.planbox_title-4 {
     text-align: center;
     background-color: rgb(221, 34, 34);
     font-size: 20px;
@@ -299,19 +263,17 @@ right:99px ;
     text-align: center;
     padding: 10px;
     color: white;
-    
 }
-#hiring
-{
-    font-size: 10px;
-    
-}
-.list-4
-{
-    font-size: 10px;
-    padding-left:25px ;
 
+#planbox_hiring {
+    font-size: 10px;
 }
+
+.planbox_list-4 {
+    font-size: 10px;
+    padding-left: 25px;
+}
+
 #foot {
     padding: 30px;
     color: #577de6;
@@ -324,10 +286,24 @@ right:99px ;
     border-right: 1px solid #8a8484;
     padding: 0 5px;
 }
-#footer-hr
-{
+
+#footer-hr {
     width: 1000px;
     position: relative;
-    right:90px;
-     
+    right: 90px;
+}
+
+.float-clear {
+    clear: both;
+}
+
+#advertising_section {
+   
+    background-image: url("../SRC/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
 }
