@@ -73,7 +73,7 @@ body {
     vertical-align: middle;
 }
 
-.plan＿picture {
+.plan_picture {
     width: 60px;
     height: 280px;
     float: left;
@@ -92,7 +92,7 @@ body {
 #garcia_select {
     margin-bottom: 2px;
     font-size: 17px;
-    
+   
 }
 
 #recommend_select {
@@ -149,7 +149,8 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    
+   
+    font-size: 10px;
 }
 
 
