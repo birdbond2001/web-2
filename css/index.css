@@ -299,7 +299,7 @@ body {
 
 #advertising_section {
    
-    background-image: url("..//hero.jpg");
+    background-image: url("../src/hero.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
