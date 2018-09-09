@@ -145,17 +145,14 @@ body {
 
 .advertising_gold_select {
     
-    color: #ff0000;
+    color: #ffffff;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 150px;
 }
 
-.advertising_gold_select {
-    font-size: 10px;
-    color: #ffffff;
-}
+
 
 #advertising_join-word_select {
     text-align: center;
